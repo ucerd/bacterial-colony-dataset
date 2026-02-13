@@ -1,0 +1,9 @@
+# keep repo lightweight; full data on Zenodo
+Images/
+Description_file/
+
+# local archives
+*.zip
+*.7z
+*.tar
+*.tar.gz

@@ -1,0 +1,329 @@
+.
+├── Description_file
+│   └── conversations.jsonl
+├── Images
+│   ├── E_Coli
+│   │   ├── E_Coli(EMB_Agar)
+│   │   │   ├── E_Coli(EMB_Agar)_10.png
+│   │   │   ├── E_Coli(EMB_Agar)_1.png
+│   │   │   ├── E_Coli(EMB_Agar)_23.png
+│   │   │   ├── E_Coli(EMB_Agar)_24.png
+│   │   │   ├── E_Coli(EMB_Agar)_25.png
+│   │   │   ├── E_Coli(EMB_Agar)_26.png
+│   │   │   ├── E_Coli(EMB_Agar)_2.png
+│   │   │   ├── E_Coli(EMB_Agar)_39.png
+│   │   │   ├── E_Coli(EMB_Agar)_3.png
+│   │   │   ├── E_Coli(EMB_Agar)_40.png
+│   │   │   ├── E_Coli(EMB_Agar)_41.png
+│   │   │   ├── E_Coli(EMB_Agar)_42.png
+│   │   │   ├── E_Coli(EMB_Agar)_47.png
+│   │   │   ├── E_Coli(EMB_Agar)_48.png
+│   │   │   ├── E_Coli(EMB_Agar)_49.png
+│   │   │   ├── E_Coli(EMB_Agar)_4.png
+│   │   │   ├── E_Coli(EMB_Agar)_50.png
+│   │   │   ├── E_Coli(EMB_Agar)_55.png
+│   │   │   ├── E_Coli(EMB_Agar)_56.png
+│   │   │   ├── E_Coli(EMB_Agar)_57.png
+│   │   │   ├── E_Coli(EMB_Agar)_58.png
+│   │   │   ├── E_Coli(EMB_Agar)_59.png
+│   │   │   ├── E_Coli(EMB_Agar)_5.png
+│   │   │   ├── E_Coli(EMB_Agar)_60.png
+│   │   │   ├── E_Coli(EMB_Agar)_6.png
+│   │   │   ├── E_Coli(EMB_Agar)_7.png
+│   │   │   ├── E_Coli(EMB_Agar)_8.png
+│   │   │   └── E_Coli(EMB_Agar)_9.png
+│   │   ├── E_Coli(MacConkey_Agar)
+│   │   │   ├── E_Coli(MacConkey_Agar)_10.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_15.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_16.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_17.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_18.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_1.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_23.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_24.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_25.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_26.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_2.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_31.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_32.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_33.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_34.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_39.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_3.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_40.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_41.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_42.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_47.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_48.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_49.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_4.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_50.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_51.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_52.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_53.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_54.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_55.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_56.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_57.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_58.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_59.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_5.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_60.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_6.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_7.png
+│   │   │   ├── E_Coli(MacConkey_Agar)_8.png
+│   │   │   └── E_Coli(MacConkey_Agar)_9.png
+│   │   └── E_Coli(Nutrients_Agar)
+│   │       ├── E_Coli(Nutrients_Agar)_10.png
+│   │       ├── E_Coli(Nutrients_Agar)_17.png
+│   │       ├── E_Coli(Nutrients_Agar)_18.png
+│   │       ├── E_Coli(Nutrients_Agar)_1.png
+│   │       ├── E_Coli(Nutrients_Agar)_23.png
+│   │       ├── E_Coli(Nutrients_Agar)_24.png
+│   │       ├── E_Coli(Nutrients_Agar)_25.png
+│   │       ├── E_Coli(Nutrients_Agar)_26.png
+│   │       ├── E_Coli(Nutrients_Agar)_2.png
+│   │       ├── E_Coli(Nutrients_Agar)_34.png
+│   │       ├── E_Coli(Nutrients_Agar)_35.png
+│   │       ├── E_Coli(Nutrients_Agar)_3.png
+│   │       ├── E_Coli(Nutrients_Agar)_40.png
+│   │       ├── E_Coli(Nutrients_Agar)_41.png
+│   │       ├── E_Coli(Nutrients_Agar)_42.png
+│   │       ├── E_Coli(Nutrients_Agar)_43.png
+│   │       ├── E_Coli(Nutrients_Agar)_4.png
+│   │       ├── E_Coli(Nutrients_Agar)_50.png
+│   │       ├── E_Coli(Nutrients_Agar)_51.png
+│   │       ├── E_Coli(Nutrients_Agar)_52.png
+│   │       ├── E_Coli(Nutrients_Agar)_53.png
+│   │       ├── E_Coli(Nutrients_Agar)_54.png
+│   │       ├── E_Coli(Nutrients_Agar)_55.png
+│   │       ├── E_Coli(Nutrients_Agar)_59.png
+│   │       ├── E_Coli(Nutrients_Agar)_5.png
+│   │       ├── E_Coli(Nutrients_Agar)_60.png
+│   │       ├── E_Coli(Nutrients_Agar)_6.png
+│   │       ├── E_Coli(Nutrients_Agar)_7.png
+│   │       ├── E_Coli(Nutrients_Agar)_8.png
+│   │       └── E_Coli(Nutrients_Agar)_9.png
+│   ├── Enterococcus
+│   │   ├── Enterococcus(Nutrients_Agar)
+│   │   │   ├── Enterococcus(Nutrients_Agar)_10.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_1.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_26.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_2.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_34.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_39.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_3.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_40.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_45.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_46.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_47.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_48.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_4.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_53.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_54.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_55.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_56.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_57.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_58.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_59.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_5.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_60.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_6.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_7.png
+│   │   │   ├── Enterococcus(Nutrients_Agar)_8.png
+│   │   │   └── Enterococcus(Nutrients_Agar)_9.png
+│   │   └── Enterococcus(Slantz_and_Bartley_Agar)
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)10.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)1.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)23.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)24.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)25.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)26.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)2.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)35.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)36.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)37.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)38.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)3.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)43.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)44.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)45.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)46.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)4.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)51.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)52.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)53.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)54.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)55.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)56.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)57.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)58.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)59.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)5.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)60.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)6.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)7.png
+│   │       ├── Enterococcus(Slantz_and_Bartley_Agar)8.png
+│   │       └── Enterococcus(Slantz_and_Bartley_Agar)9.png
+│   ├── Salmonella
+│   │   ├── Salmonella(MacConkey_Agar)
+│   │   │   ├── Salmonella(MacConkey_Agar)_10.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_13.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_14.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_15.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_16.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_17.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_18.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_1.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_21.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_22.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_23.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_24.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_25.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_26.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_27.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_28.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_29.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_2.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_30.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_31.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_32.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_37.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_38.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_39.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_40.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_50.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_51.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_52.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_53.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_58.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_59.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_5.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_60.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_6.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_7.png
+│   │   │   ├── Salmonella(MacConkey_Agar)_8.png
+│   │   │   └── Salmonella(MacConkey_Agar)_9.png
+│   │   ├── Salmonella(Nutrients_Agar)
+│   │   │   ├── Salmonella(Nutrients_Agar)_15.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_16.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_17.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_18.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_19.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_1.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_20.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_21.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_22.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_29.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_2.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_30.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_31.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_32.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_33.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_34.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_35.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_36.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_3.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_41.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_42.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_4.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_51.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_52.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_53.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_54.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_59.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_5.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_60.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_6.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_7.png
+│   │   │   ├── Salmonella(Nutrients_Agar)_8.png
+│   │   │   └── Salmonella(Nutrients_Agar)_9.png
+│   │   └── Salmonella(XLD_Agar)
+│   │       ├── Salmonella(XLD_Agar)_15.png
+│   │       ├── Salmonella(XLD_Agar)_16.png
+│   │       ├── Salmonella(XLD_Agar)_17.png
+│   │       ├── Salmonella(XLD_Agar)_1.png
+│   │       ├── Salmonella(XLD_Agar)_24.png
+│   │       ├── Salmonella(XLD_Agar)_25.png
+│   │       ├── Salmonella(XLD_Agar)_2.png
+│   │       ├── Salmonella(XLD_Agar)_32.png
+│   │       ├── Salmonella(XLD_Agar)_33.png
+│   │       ├── Salmonella(XLD_Agar)_3.png
+│   │       ├── Salmonella(XLD_Agar)_40.png
+│   │       ├── Salmonella(XLD_Agar)_41.png
+│   │       ├── Salmonella(XLD_Agar)_48.png
+│   │       ├── Salmonella(XLD_Agar)_49.png
+│   │       ├── Salmonella(XLD_Agar)_4.png
+│   │       ├── Salmonella(XLD_Agar)_56.png
+│   │       ├── Salmonella(XLD_Agar)_57.png
+│   │       ├── Salmonella(XLD_Agar)_5.png
+│   │       ├── Salmonella(XLD_Agar)_6.png
+│   │       ├── Salmonella(XLD_Agar)_7.png
+│   │       ├── Salmonella(XLD_Agar)_8.png
+│   │       └── Salmonella(XLD_Agar)_9.png
+│   └── Staphlycoccus
+│       ├── Staphylococcus(MSA_Agar)
+│       │   ├── Staphylococcus(MSA_agar)_10.png
+│       │   ├── Staphylococcus(MSA_agar)_17.png
+│       │   ├── Staphylococcus(MSA_agar)_18.png
+│       │   ├── Staphylococcus(MSA_agar)_25.png
+│       │   ├── Staphylococcus(MSA_agar)_26.png
+│       │   ├── Staphylococcus(MSA_agar)_2.png
+│       │   ├── Staphylococcus(MSA_agar)_33.png
+│       │   ├── Staphylococcus(MSA_agar)_34.png
+│       │   ├── Staphylococcus(MSA_agar)_3.png
+│       │   ├── Staphylococcus(MSA_agar)_41.png
+│       │   ├── Staphylococcus(MSA_agar)_42.png
+│       │   ├── Staphylococcus(MSA_agar)_49.png
+│       │   ├── Staphylococcus(MSA_agar)_4.png
+│       │   ├── Staphylococcus(MSA_agar)_50.png
+│       │   ├── Staphylococcus(MSA_agar)_51.png
+│       │   ├── Staphylococcus(MSA_agar)_52.png
+│       │   ├── Staphylococcus(MSA_agar)_53.png
+│       │   ├── Staphylococcus(MSA_agar)_54.png
+│       │   ├── Staphylococcus(MSA_agar)_55.png
+│       │   ├── Staphylococcus(MSA_agar)_56.png
+│       │   ├── Staphylococcus(MSA_agar)_57.png
+│       │   ├── Staphylococcus(MSA_agar)_58.png
+│       │   ├── Staphylococcus(MSA_agar)_59.png
+│       │   ├── Staphylococcus(MSA_agar)_5.png
+│       │   ├── Staphylococcus(MSA_agar)_60.png
+│       │   ├── Staphylococcus(MSA_agar)_6.png
+│       │   ├── Staphylococcus(MSA_agar)_7.png
+│       │   ├── Staphylococcus(MSA_agar)_8.png
+│       │   └── Staphylococcus(MSA_agar)_9.png
+│       └── Staphylococcus(Nutrient_Agar)
+│           ├── Staphylococcus(Nutrients_Agar)_16.png
+│           ├── Staphylococcus(Nutrients_Agar)_17.png
+│           ├── Staphylococcus(Nutrients_Agar)_1.png
+│           ├── Staphylococcus(Nutrients_Agar)_28.png
+│           ├── Staphylococcus(Nutrients_Agar)_29.png
+│           ├── Staphylococcus(Nutrients_Agar)_2.png
+│           ├── Staphylococcus(Nutrients_Agar)_35.png
+│           ├── Staphylococcus(Nutrients_Agar)_36.png
+│           ├── Staphylococcus(Nutrients_Agar)_3.png
+│           ├── Staphylococcus(Nutrients_Agar)_41.png
+│           ├── Staphylococcus(Nutrients_Agar)_42.png
+│           ├── Staphylococcus(Nutrients_Agar)_48.png
+│           ├── Staphylococcus(Nutrients_Agar)_49.png
+│           ├── Staphylococcus(Nutrients_Agar)_4.png
+│           ├── Staphylococcus(Nutrients_Agar)_50.png
+│           ├── Staphylococcus(Nutrients_Agar)_51.png
+│           ├── Staphylococcus(Nutrients_Agar)_52.png
+│           ├── Staphylococcus(Nutrients_Agar)_53.png
+│           ├── Staphylococcus(Nutrients_Agar)_54.png
+│           ├── Staphylococcus(Nutrients_Agar)_55.png
+│           ├── Staphylococcus(Nutrients_Agar)_56.png
+│           ├── Staphylococcus(Nutrients_Agar)_57.png
+│           ├── Staphylococcus(Nutrients_Agar)_58.png
+│           ├── Staphylococcus(Nutrients_Agar)_59.png
+│           ├── Staphylococcus(Nutrients_Agar)_5.png
+│           ├── Staphylococcus(Nutrients_Agar)_60.png
+│           ├── Staphylococcus(Nutrients_Agar)_6.png
+│           ├── Staphylococcus(Nutrients_Agar)_7.png
+│           ├── Staphylococcus(Nutrients_Agar)_8.png
+│           └── Staphylococcus(Nutrients_Agar)_9.png
+├── README.md
+└── tree.log
+
+16 directories, 310 files
